@@ -1,28 +1,29 @@
-# Project 4 - *Name of App Here*
+# Project 4 - Photo Scavenger Hunt 
 
-Submitted by: **Your Name Here**
+Submitted by: Jayde Shaw
 
-**Name of your app** is an app that ... [TODO] 
+Photo Scavenger Hunt is a scavenger hunt application that offers users a captivating and interactive outdoor experience. The app provides a curated list of tasks, each requiring users to attach photos relevant to the assigned challenge. Through the seamless integration of geotagging technology, users can not only document their progress but also visually trace the exact location where each photo was taken on a map, adding a layer of geographical context to their adventure. Whether you're a solo explorer or competing with friends, [Name of your app] transforms ordinary outings into exciting scavenger hunts, making exploration both engaging and memorable.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays list of hard-coded tasks
-- [ ] When a task is tapped it navigates the user to a task detail view
-- [ ] When user adds photo to complete the tasks, it marks the task as complete
-- [ ] When adding photo of task, the location is added
-- [ ] User returns to home page (list of tasks) and the status of your task is updated to complete
+- [x] App displays list of hard-coded tasks
+- [x] When a task is tapped it navigates the user to a task detail view
+- [x] When user adds photo to complete the tasks, it marks the task as complete
+- [x] When adding photo of task, the location is added
+- [x] User returns to home page (list of tasks) and the status of your task is updated to complete
  
 The following **optional** features are implemented:
 
-- [ ] User can launch camera to snap a picture	
+- [x] User can launch camera to snap a picture	
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!:
+      added more color details
 
 ## Video Walkthrough
 
@@ -38,7 +39,7 @@ No challenges with this lab anymore
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jayde Shaw]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
